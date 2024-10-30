@@ -1,10 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./Header/header.js";
+import Home from "./Home/home.js";
+import Footer from "./Footer/footer.js";
 
 function App() {
   return (
     <div>
       <h1>Hello World</h1>
+      <Header/>
+      <Home/>
+      <Footer/>
     </div>
   );
 }
