@@ -1,9 +1,13 @@
 const Gen2 = () => {
-    return (
+    
+  return (
+      
       <div>
+
         <h1>Gen2</h1>
         
       </div>
+      
     );
   };
 
